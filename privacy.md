@@ -4,20 +4,16 @@
 
 Your privacy is important to us. This Privacy Policy explains how Photo Nook handles your data.
 
-## 1. Information Collection and Use
-Photo Nook is designed to respect your privacy:
-- **Photos and Media:** Photo Nook requests access to your iOS Photo Library strictly to display, organize, or edit photos within the app. Your photos remain on your device and are never uploaded, shared, or transmitted to external servers.
-- **Personal Data:** We do not collect, store, or sell any personal data (such as names, email addresses, or phone numbers).
+## 1. Information Collection and Media Storage
+Photo Nook is designed as a temporary, on-device media storage utility:
+- **Camera and Microphone Access:** Photo Nook requests access to your device camera and microphone solely to let you capture temporary photos and videos inside the app.
+- **Local Storage & Auto-Deletion:** All media captured in Photo Nook is stored strictly on your local device within the app's private sandbox. Media is automatically deleted according to your configured Time-To-Live (TTL) setting (default 7 days). 
+- **No Cloud Uploads:** Your temporary photos and videos are never uploaded, backed up, or transmitted to external servers or third-party cloud services.
+- **Personal Data:** We do not collect, store, or share any personal identifying data.
 
 ## 2. Analytics and Tracking
-Photo Nook does not use third-party analytics, tracking SDKs, or advertising networks. We do not track your activity across other apps or websites.
+Photo Nook does not use third-party analytics, tracking SDKs, or advertising networks. We do not track your activity.
 
-## 3. Data Storage
-All data associated with Photo Nook remains locally on your device or within your private personal iCloud storage (if enabled by your device settings).
-
-## 4. Changes to This Policy
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date.
-
-## 5. Contact Us
-If you have any questions or suggestions about this Privacy Policy, please contact us at:
+## 3. Contact Us
+If you have any questions regarding this Privacy Policy, please contact us at:
 - **Email:** realbytes.dev@gmail.com
